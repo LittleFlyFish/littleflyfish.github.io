@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My background are shown in the following:
+
 Education
 ======
 * B.S. of Applied Mathematics, Elite Class of Math and Mathematics, Xi’an Jiaotong University (XJTU), 2013
@@ -28,11 +30,6 @@ Work experience
   * Projects: Human Motion Recognition
   * Collaborate: Dr. [Zhao Wang](https://www.researchgate.net/profile/Zhao-Wang-11) 
   
-* April 2021 – March 2022: Research Fellow
-  * University of Birmingham (Remote)
-  * Projects: Objects Motion Prediction 
-  * Supervisor: Prof [Ales Leonardis](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/leonardis-ales.aspx)
-
 * April 2021 – March 2022: Research Fellow
   * University of Birmingham (Remote)
   * Projects: Objects Motion Prediction 
@@ -83,17 +80,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
