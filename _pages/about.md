@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,63 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+About Me 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am currently a postdoctoral Research Fellow at the University of Edinburgh (The Alan Turing Institute). I've completed my Master and Bachelor degrees in Math at the University of Xi’an Jiaotong University and the University of Science and Technology of China. I obtained the PhD degree from NCCA (Top 1 Animation Institution in the UK) Bournemouth University in 2020. I won the Automation Fellowship from the South West Creative Technology Network (SWCTN) and was honoured as a New Talent candidate. Now my research interest includes graph neural networks, videos prediction, human motion understanding, human interaction understanding and spatial-temporal understanding.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Dec 2022: Selected as Reviews for two papers of CVPR.
+1. Nov 2022: One research paper about [MIMO is all you need：A Strong Multi-In-Multi-Out Baseline for Video Prediction](https://arxiv.org/abs/2212.04655). gets accepted by AAAI 2023.
+1. July 2022: Accepted as a Research Associate in [the Alan Turing Institution](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/university-edinburgh) in the University of Edinburgh. 
+1. July 2022: One research paper about [Shifting Perspective to See Difference: a novel Multi-View method for skeleton based action recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548210) get accepted by ACMMultiMedia 2022. 
+1. March 2022: One Paper about [SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation](https://xyzhang17.github.io/SharpContour/) is accepted by CVPR 2022.
+1. July 2021: One paper about [From Single to Multiple: Leveraging Multi-level Prediction Spaces for Video Forecasting](https://arxiv.org/abs/2107.10068) is preprint on arxiv.
+1. April 2021: Accepted as a Research Fellow in Birmingham University and work on [MURI project](https://www.robots.ox.ac.uk/~nsid/muri/). 
+1. April 2021: Graduated as a PhD candidate of [National Centre for Computer Animation](https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation) in Bournemouth University.
+1. July 2020: One Research Paper about [Peeking into occluded joints: A novel framework for crowd pose estimation](https://github.com/lingtengqiu/OPEC-Net) is accepted in ECCV 2020.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[MI](http)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Working Experience
+======
 
-**Markdown generator**
+1. July 2022 – Present: Unsupervised Learning Project (Research Fellow, University of Edinburgh(Remote))
+1. March 2022 – July 2022: Human Motion Recognition Project (Visiting Researcher, Zhejiang University in China (Remote))
+1. April 2021 – March 2022: Objects Motion Prediction Project (Research Fellow,	Birmingham University(Remote))
+1. June 2019 –April 2021: Video Prediction, Pose Estimation, Image Segmentation Project (Visiting Researcher, [GAP lab](https://gaplab.cuhk.edu.cn/), CUHK(Shenzhen)(Remote) )
+1. April 2019 - January 2020: Human Motion Modelling Project (New Talent, Automation Fellow, [SWCTN](https://www.swctn.org.uk/automation/))
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Awards and Honors
+======
+1. Obtained the Automation Fellowship from the South West Creative Technology Network (SWCTN). (2019, the first Asia people get this honour)
+1. Honourable Mention, Mathematical Contest in Modelling (MCM), the Consortium for Mathematics and Its Applications (COMAP). (2012)
+1. Three-times Siyuan Scholarship of Xian Jiaotong University (2009-2011)
+1. The 2nd prize in Advanced Mathematics Contest, Shaanxi (2011)
+1. Excellent Students Leader, XJTU (2010)
+1. Obtained the second place in “the Great Chinese Cooking Festival Online Competition for all the Chinese students in UK” hold by New Oriental Company (2021). 
+1. Champion of the New Student Cup Competition for Billiard (Girls team), Hold by USTC Billiard Union (2014)
+1. Champion of 1st China Open, hold by IDEA (International Debate Education Association) (2010)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Professional Activity
+======
+Journal Service:
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+1. Automation in Construction 
+1. An International Journal of Systems & Applications in Computer Graphics
+1. Knowledge-based Systems
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Conference Service:
+
+1. IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+1. European Conference on Computer Vision (ECCV)
+1. Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence
+1. ACM International Conference on Multimedia (ACMM)
+1. IEEE International Conference on Development and Learning (ICDL)
+1. IFIP INTERNATIONAL CONFERENCE ON ENTERTAINMENT COMPUTING
+1. International Conference on Computer Animation and Social Agents (CASA)
+1. Computer Graphics International (CGI)
+
+More Information
+======
