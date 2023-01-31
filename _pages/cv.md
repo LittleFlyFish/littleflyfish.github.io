@@ -48,6 +48,12 @@ Work experience
   * Projects: Human Motion Modelling
   * Duties: Workshops, presentations, support diverse cohort
 
+Teaching Experience
+======
+* Machine Learning Workshop delivery in Bournemouth University
+* Teaching Assistant for Calculus Course (150+ student) in USTC
+* Teaching Assistant for Abstract Algebra Course (150+ student) in USTC
+
 Awards and Honors
 ======
 ### Professional Relevant:
