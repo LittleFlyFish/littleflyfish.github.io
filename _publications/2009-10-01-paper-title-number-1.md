@@ -1,6 +1,7 @@
 ---
 title: "MIMO is all you need：A Strong Multi-In-Multi-Out Baseline for Video Prediction"
 date: 2023-11-01
+authors: 
 venue: 'AAAI'
 ---
 
