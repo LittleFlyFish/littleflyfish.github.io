@@ -5,3 +5,5 @@ venue: 'ECCV'
 ---
 
 [Download paper here](https://github.com/lingtengqiu/OPEC-Net)
+
+Authors: Lingteng Qiu, Xuanye Zhang, Yanran Li, Guanbin Li, Xiaojun Wu, Zixiang Xiong, Xiaoguang Han, Shuguang Cui. 

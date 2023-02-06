@@ -5,3 +5,5 @@ venue: 'ACM Multi-Media'
 ---
 
 [Download paper here](https://dl.acm.org/doi/pdf/10.1145/3503161.3548210?casa_token=bRr_GIA6TfAAAAAA:uTZEGzYM4JUquwg9VVO_SvzOgp1EaX7n0YSK0qrS69kszschZl-fPaLc3UFK7QDWy-4NQakPFM7x)
+
+Authors: Yanran Li*, Ruijie Hou*, Ningyu Zhang, Yulin Zhou, Xiaosong Yang, Zhao Wang. 
