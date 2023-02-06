@@ -1,7 +1,7 @@
 ---
 title: "MIMO is all you need：A Strong Multi-In-Multi-Out Baseline for Video Prediction"
 date: 2023-11-01
-authors: 
+authors: Shuliang Ning, Mengcheng Lan, Yanran Li, Chaofeng Chen, Qian Chen, xunlai chen, Xiaoguang Han, Shuguang Cui.
 venue: 'AAAI'
 ---
 
