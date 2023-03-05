@@ -88,7 +88,7 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
-    md += "\n---"
+    md += "\nauthors: '" + html_escape(item.authors) + "'"
     
     ## Markdown description for individual page
     
@@ -99,6 +99,8 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
         
     md += "\nRecommended citation: " + item.citation
+
+    md += "\nAuthors: " + item.authors
     
     md_filename = os.path.basename(md_filename)
        
