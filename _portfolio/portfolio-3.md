@@ -1,6 +1,6 @@
 ---
-title: "Dog Cake"
-excerpt: "A cute Dog Cake made for my friend Alisa 1<br/><img src='/images/cakes/cake1.jpg'>"
+title: "Luxury Chocolate Cake"
+excerpt: "A luxury chessboard chocolate cake made for my boyfriend Seb 1<br/><img src='/images/cakes/cake3.jpg'>"
 collection: cakes
 ---
 
