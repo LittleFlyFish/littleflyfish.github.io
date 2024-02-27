@@ -15,7 +15,7 @@ I've completed my Master and Bachelor degrees in Math at the University of Xi’
 I obtained the PhD degree from NCCA (Top 1 Animation Institution in the UK) Bournemouth University in 2020. 
 I won the Automation Fellowship from the South West Creative Technology Network (SWCTN) and was honoured as 
 a New Talent candidate. Now my research interest includes graph neural networks, 
-videos prediction, human motion understanding, human interaction understanding and spatial-temporal understanding.
+videos prediction, 3D detection, human motion understanding, human interaction understanding and spatial-temporal understanding.
 
 
 News
@@ -44,17 +44,16 @@ Professional Activity
 1. Automation in Construction 
 1. An International Journal of Systems & Applications in Computer Graphics
 1. Knowledge-based Systems
+1. Computer Graphics
 
 ### Conference Service:
 
 1. IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
 1. European Conference on Computer Vision (ECCV)
+1. International Conference on Computer Vision (ICCV)
 1. Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence
 1. ACM International Conference on Multimedia (ACMM)
 1. IEEE International Conference on Development and Learning (ICDL)
 1. IFIP INTERNATIONAL CONFERENCE ON ENTERTAINMENT COMPUTING
 1. International Conference on Computer Animation and Social Agents (CASA)
 1. Computer Graphics International (CGI)
-
-More Information
-======

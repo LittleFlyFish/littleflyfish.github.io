@@ -20,7 +20,12 @@ Education
 
 Work experience
 ======
-* July 2022 – Present: Research Associate
+* May 2023 – Present: Machine Learning Lead
+  * Polysurance Company(Remote)
+  * Projects: (1) Build Simulation dataset by CARLA (2) Build Mobile-level 3D Car Detection model (3) Build a RoadFacing model
+
+  
+* July 2022 – April 2023: Research Associate
   * University of Edinburgh(Remote)
   * Projects: Unsupervised Learning by CLIP loss
   * Supervisor: Assistant Professor [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)
