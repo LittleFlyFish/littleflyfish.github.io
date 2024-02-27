@@ -10,12 +10,23 @@ redirect_from:
 
 
 
-I am currently a postdoctoral Research Fellow at the University of Edinburgh (The Alan Turing Institute). I've completed my Master and Bachelor degrees in Math at the University of Xi’an Jiaotong University and the University of Science and Technology of China. I obtained the PhD degree from NCCA (Top 1 Animation Institution in the UK) Bournemouth University in 2020. I won the Automation Fellowship from the South West Creative Technology Network (SWCTN) and was honoured as a New Talent candidate. Now my research interest includes graph neural networks, videos prediction, human motion understanding, human interaction understanding and spatial-temporal understanding.
+I am currently a Machine Learning Lead at the Polysurance Company to build up road understanding models. 
+I've completed my Master and Bachelor degrees in Math at the University of Xi’an Jiaotong University and the University of Science and Technology of China. 
+I obtained the PhD degree from NCCA (Top 1 Animation Institution in the UK) Bournemouth University in 2020. 
+I won the Automation Fellowship from the South West Creative Technology Network (SWCTN) and was honoured as 
+a New Talent candidate. Now my research interest includes graph neural networks, 
+videos prediction, human motion understanding, human interaction understanding and spatial-temporal understanding.
 
 
 News
 ======
-1. Dec 2022: Selected as Reviews for two papers of CVPR.
+1. Jan 2024: Submitted a paper for Siggraph 2024 about motion generation. 
+1. Dec 2023: Selected as Reviewer for six paper of CVPR conference
+1. Jun 2023: Selected as Reviewer for Computer Graphics Journal
+1. May 2023: Selected as Reviewer for two papers of ACMM conference
+1. May 2023: Selected as Reviewer for three papers of ICCV conference 
+1. April 2023: Enter a new role as Machine Learning Lead in Polysurance Company
+1. Dec 2022: Selected as Reviewer for two papers of CVPR.
 1. Nov 2022: One research paper about [MIMO is all you need：A Strong Multi-In-Multi-Out Baseline for Video Prediction](https://arxiv.org/abs/2212.04655). gets accepted by AAAI 2023.
 1. July 2022: Accepted as a Research Associate in [the Alan Turing Institution](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/university-edinburgh) in the University of Edinburgh. 
 1. July 2022: One research paper about [Shifting Perspective to See Difference: a novel Multi-View method for skeleton based action recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548210) get accepted by ACMMultiMedia 2022. 
